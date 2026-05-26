@@ -1,2 +1,2 @@
-# sam_prompt_tumour_segmentation
-An efficient visual recognition framework using differentiable glimpse attention mechanisms to selectively process salient image regions for computationally adaptive feature extraction.
+# Guided Differentiable Glimpse Attention for Efficient Visual Recognition
+Implemented a guided attention-based visual recognition pipeline leveraging differentiable glimpse policies for spatially selective representation learning and efficient image understanding.
