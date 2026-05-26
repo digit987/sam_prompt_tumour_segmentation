@@ -1,2 +1,2 @@
-# Guided Differentiable Glimpse Attention for Efficient Visual Recognition
-Implemented a guided attention-based visual recognition pipeline leveraging differentiable glimpse policies for spatially selective representation learning and efficient image understanding.
+# Prompt Sensitivity Analysis of SAM
+Evaluated zero-shot segmentation robustness of SAM on multi-class brain tumor MRI slices by systematically analyzing prompt engineering strategies and prompt-dependent segmentation behavior.
